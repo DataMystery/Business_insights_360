@@ -140,6 +140,12 @@ Fact table : It will have the data about the transactions
     + Has the details of pre invoice deductions percentage for each cutomer with year
   * Post_invoice_deductions
     + Post invoice deductions and other deductions details
+   
+## Importing data into PowerBi
+
+To import datasets from MySQL to Power BI, we'll need to provide the necessary database access credentials.Once these credentials are provided, Power BI can establish a connection to the MySQL database and import the datasets directly into our Power BI 
+
+## Data  Model
 
 
 
