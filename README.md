@@ -166,6 +166,36 @@ Within the Home view, users will find buttons for accessing various views. Click
 + Products
 + Support
 
+![https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/home.png!](https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/home.png)
+
+## Info
+
+![https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/info.png!](https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/info.png)
+
+## Finance view
+
+![https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/finance%20view.png!](https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/finance%20view.png)
+
+## Sales view
+
+![https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/finance%20view.png!](https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/finance%20view.png)
+
+## Marketing view
+
+![https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/marketing%20view.png!](https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/marketing%20view.png)
+
+## SupplyChain view
+
+![https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/supply%20chain%20view.png!](https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/supply%20chain%20view.png)
+
+## Executive view
+
+![https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/executive%20view.png!](https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/executive%20view.png)
+
+### For more information
+ You can find the full POWER BI report by clicking this ![REPORT!](https://app.powerbi.com/view?r=eyJrIjoiNzBmNDkxNWYtYjcyOC00NmIxLTg2N2ItZDFiNDc3YzYyN2Q2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
 
 
 
