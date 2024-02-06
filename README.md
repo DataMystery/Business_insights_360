@@ -151,7 +151,22 @@ To import datasets from MySQL to Power BI, we'll need to provide the necessary d
 * Data modeling is fundamental, acting as the cornerstone of reports. Every visualization is constructed based on this framework. Substandard data modeling directly impacts the overall performance of the report.
 + In this report, I have implemented the snowflake schema, which is visually represented in the figure below:
 
-https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/Data%20Model.jpg
+![https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/Data%20Model.jpg!](https://github.com/DataMystery/Business_insights_360/blob/main/report_insights/Data%20Model.jpg)
+
+## Power Bi report designing
+
+## Home Page
+Within the Home view, users will find buttons for accessing various views. Clicking on a specific button will direct the user to the corresponding view page.
++ Info
++ Finance View
++ Sales View
++ Marketing View
++ Supply chain View
++ Executive View
++ Products
++ Support
+
+
 
 
 
