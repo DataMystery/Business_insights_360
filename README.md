@@ -195,6 +195,10 @@ Within the Home view, users will find buttons for accessing various views. Click
 ### For more information
  You can find the full POWER BI report by clicking this [REPORT](https://app.powerbi.com/view?r=eyJrIjoiNzBmNDkxNWYtYjcyOC00NmIxLTg2N2ItZDFiNDc3YzYyN2Q2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+ ## Project Outcome
+ 
+By leveraging this report, decisions can be made using data, while also providing insights to address numerous "why" questions in various situations.
+
 
 
 
